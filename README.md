@@ -7,7 +7,7 @@
 ![OOP](https://img.shields.io/badge/OOP-red)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp:_JavaScript_Algorithms_and_Data_Structures_(Beta)-red)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
-![image](https://github.com/WilliamFerns1/oop-platformer-game-js/assets/141557971/255c42fa-75a2-4b0e-bd78-71bedd123b5f)
+![screenshot](./assets/screenshot.png)
 
 A simple platformer game, where you are a block. You can move around, and jump on the platforms, and reach checkpoints. This project was a course project from freeCodeCamps DSA JavaScript course. I added in additional features and fixed bugs on my own:
 
